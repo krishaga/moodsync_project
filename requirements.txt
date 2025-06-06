@@ -1,0 +1,8 @@
+pandas
+numpy
+transformers>=4.30.0
+spotipy>=2.22.1
+gradio>=3.36.0
+python-dotenv>=1.0.0
+torch
+streamlit

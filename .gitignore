@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+
+# User and app data
+user_preferences.json
+
+# Log files
+app.log
+spotify.log
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache directories
+.cache/
+
+# IDE/editor config
+.idea/
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Database files
+*.sqlite3
+*.db
+
+# Static files (uncomment if generated and not needed in repo)
+# static/
