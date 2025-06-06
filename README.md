@@ -69,12 +69,6 @@ See [`requirements.txt`](requirements.txt) for full package versions.
     ```bash
     streamlit run app.py
     ```
-5. **Add a dashboard screenshot**
-    - Take a screenshot of the running dashboard and place it in the `static/` folder. Update the image link at the top of this README.
-
-## Feedback & Contribution
-
-Feel free to open issues or submit pull requests for improvements or bug fixes! Suggestions for new features and mood categories are welcome.
 
 ---
 
