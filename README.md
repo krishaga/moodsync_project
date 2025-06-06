@@ -1,6 +1,6 @@
 # MoodSync
 
-![Dashboard Screenshot](#)
+![Dashboard Screenshot](/static/image.png)
 *Add a screenshot of the dashboard above (replace `#` with your image path or URL)*
 
 ## Overview
